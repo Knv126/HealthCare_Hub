@@ -49,12 +49,6 @@ Some Screenshots of this project are given below
 # User Login:
 ![4 1 User Login](https://user-images.githubusercontent.com/91146041/205283038-1c24b1ad-48e7-452f-8528-8c4609b6b9d6.png)
 
-# User 1 Dashboard:
-![4 2 1 User Dash Board_1](https://user-images.githubusercontent.com/91146041/205283041-23e6d78f-f3e9-4ef7-95e2-000f44344bdf.png)
-
-# User 2 Dashboard:
-![4 2 2 User dashboar_2](https://user-images.githubusercontent.com/91146041/205283047-6fdc5a37-7da8-4640-90ea-e2768126b58b.png)
-
 # Make Appointment Request:
 ![4 3 User Appointment](https://user-images.githubusercontent.com/91146041/205283049-bceb5fdb-e686-4d2b-afe3-0a35bbafa1dd.png)
 
